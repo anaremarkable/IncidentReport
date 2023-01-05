@@ -1,0 +1,47 @@
+Sir JP
+**add labels to all forms
+
+**-use dynamic DropDowns
+
+-add <others> to complains
+*image to complains not required
+
+
+**-create complaint
+    **place of happening
+	**-*Date of the incident
+	**-faculty/s involved
+	**-add verification status for complaints (automatic upon complaint creation, default is <pending>)
+
+
+-follow the hierarchy of reporting from faculty, program head, Dean, SAO
+    -add status for forwarding the case
+
+
+**-add status to list of complaints. unresolved, pending, resolved
+
+-only one dean is allowed per dept.
+
+**-add another user level for faculty... PH and Dean
+
+-revise recommendations & conclusions
+----------------------------------------------------------
+
+Sir Emman
+**-on student interface.. make lists dynamic depending on the specific faculty
+
+-use subforms
+x**-all apply this dynamic approach to all forms
+
+-fix password recovery process
+
+------------------------------------------------------
+
+-Charts
+-Notification
+-Recommend to another faculty if di agad naresolve
+-Active(Button) 
+-Monthly Incident Reports and feedbacks
+-Yung kay sir Vic yung sa ranking po ata tapos yung pinapagawa.
+-tapos po yung page po ng para sa program head faculty and dean po 
+Kase di pa po kuya yung complaints po marereceive din nung 3 faculty depende sa level ng offense? Kaso di pa po nashoshow ng 3 faculty. Yan pa po actually mga kulang ko po
